@@ -1,0 +1,38 @@
+.invisivel{
+    display:none;
+  }
+  .visivel{
+    display:inline;
+  }
+  .inicial {
+    text-align: center;
+    font-size: 100px;
+    background-color: rgb(255, 255, 255);
+    width: 150px;
+    height: 200px;
+    border: 15px solid rgb(181, 239, 243);
+    padding: 10px;
+    margin: 20px;
+  }
+  .acertou {
+    text-align: center;
+    color: rgb(177, 252, 147);
+    background-color: rgb(255, 255, 255);
+    width: 150px;
+    height: 200px;
+    border: 15px solid rgb(177, 252, 147);
+    padding: 10px;
+    margin: 20px;
+  }
+  .errou {
+    text-align: center;
+    color: rgb(250, 97, 97);
+    background-color: rgb(255, 255, 255);
+    width: 150px;
+    height: 200px;
+    border: 15px solid rgb(250, 97, 97);
+    padding: 10px;
+    margin: 20px;
+  }
+
+  
